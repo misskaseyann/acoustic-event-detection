@@ -110,6 +110,8 @@ I would like to try and exceed the accuracy of the research paper by Karol Pczak
 
 Overall the biggest problem the classifier had was misclassifying machine noises such as drilling, jackhammer, and air conditioner. This makes sense since they are all mechanical noises which all originate from the same class of noises identified in the urban taxonomy. It also had a hard time understanding the differences between children, street music, and dog barks. This might be because the noise is much more random than something mechanical which makes it hard for the LSTM to identify specific patterns. In the end, it would be good to add more original data and synthesized data to see if that would eliminate any of the misclassifications.
 
+### Resources
+
 Urban Sound Classification – Applying Convolutional Neural Network
 	Aaqib Saeed, September 24, 2016
 	http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/
