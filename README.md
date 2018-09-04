@@ -100,7 +100,7 @@ A background sound (Tel Aviv cityscape):
 
 Combined together with different parameters, we get new data:
 
-<img src="http://i63.tinypic.com/335fq5x.png" width=600/>
+<img src="http://i63.tinypic.com/335fq5x.png" width=400/>
 
 ### Future Improvements
 
